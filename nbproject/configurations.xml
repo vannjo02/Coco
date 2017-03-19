@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="95">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <in>PyAttr.cpp</in>
+      <in>PyBool.cpp</in>
+      <in>PyBuiltInConcat.cpp</in>
+      <in>PyBuiltInFPrint.cpp</in>
+      <in>PyBuiltInInput.cpp</in>
+      <in>PyBuiltInIter.cpp</in>
+      <in>PyBuiltInLen.cpp</in>
+      <in>PyBuiltInPrint.cpp</in>
+      <in>PyBuiltInTPrint.cpp</in>
+      <in>PyByteCode.cpp</in>
+      <in>PyCallable.cpp</in>
+      <in>PyCell.cpp</in>
+      <in>PyCode.cpp</in>
+      <in>PyComplex.cpp</in>
+      <in>PyException.cpp</in>
+      <in>PyExceptionType.cpp</in>
+      <in>PyFloat.cpp</in>
+      <in>PyFrame.cpp</in>
+      <in>PyFunList.cpp</in>
+      <in>PyFunListIterator.cpp</in>
+      <in>PyFunction.cpp</in>
+      <in>PyInt.cpp</in>
+      <in>PyList.cpp</in>
+      <in>PyListIterator.cpp</in>
+      <in>PyNone.cpp</in>
+      <in>PyObject.cpp</in>
+      <in>PyParser.cpp</in>
+      <in>PyRange.cpp</in>
+      <in>PyRangeIterator.cpp</in>
+      <in>PyRangeType.cpp</in>
+      <in>PyScanner.cpp</in>
+      <in>PyStr.cpp</in>
+      <in>PyStrIterator.cpp</in>
+      <in>PyToken.cpp</in>
+      <in>PyTuple.cpp</in>
+      <in>PyTupleIterator.cpp</in>
+      <in>PyType.cpp</in>
+      <in>PyUtil.cpp</in>
+      <in>main.cpp</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+      <itemPath>configure</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <flagsDictionary>
+        <element flagsID="0" commonFlags="-std=c++0x"/>
+      </flagsDictionary>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath>coco</executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>.</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>PACKAGE="coco"</Elem>
+              <Elem>PACKAGE_BUGREPORT="kentdlee@gmail.com"</Elem>
+              <Elem>PACKAGE_NAME="coco"</Elem>
+              <Elem>PACKAGE_STRING="coco 1.0"</Elem>
+              <Elem>PACKAGE_TARNAME="coco"</Elem>
+              <Elem>PACKAGE_URL=""</Elem>
+              <Elem>PACKAGE_VERSION="1.0"</Elem>
+              <Elem>VERSION="1.0"</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="PyAttr.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyBool.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyBuiltInConcat.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyBuiltInFPrint.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyBuiltInInput.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyBuiltInIter.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyBuiltInLen.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyBuiltInPrint.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyBuiltInTPrint.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyByteCode.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyCallable.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyCell.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyCode.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyComplex.cpp" ex="false" tool="1" flavor2="8">
+        <ccTool flags="0">
+        </ccTool>
+      </item>
+      <item path="PyException.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyExceptionType.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyFloat.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyFrame.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyFunList.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyFunListIterator.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyFunction.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyInt.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyList.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyListIterator.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyNone.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyObject.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyParser.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyRange.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyRangeIterator.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyRangeType.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyScanner.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyStr.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyStrIterator.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyToken.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyTuple.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyTupleIterator.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyType.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="PyUtil.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="8">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
